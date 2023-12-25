@@ -13,14 +13,10 @@ In this project, a Generative Adversarial Network (GAN) was developed to transfo
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
-2. [Contributions](#11-contributions)
-3. [Material and Methods](#2-material-and-methods)
-4. [Dataset Description](#21-dataset-description)
-5. [Methodology](#22-methodology)
-6. [Performance Evaluation](#23-performance-evaluation)
-7. [Experimental Analysis](#3-experimental-analysis)
-8. [Conclusion](#4-conclusion)
-9. [References](#references)
+2. [Material and Methods](#2-material-and-methods)
+3. [Experimental Analysis](#3-experimental-analysis)
+4. [Conclusion](#4-conclusion)
+5. [References](#references)
 
 ## 1. Introduction
 
@@ -73,7 +69,7 @@ Image transformation using Paprika style.
 
 The implemented Cartoon GAN successfully converts real-world images into high-quality cartoon-style graphics. Future work may involve extending the application to handle various video formats.
 
-## References
+## 5. References
 
 1. Brownlee, Jason. "A Gentle Introduction to Generative Adversarial Networks (GANs)." Machine Learning Mastery, 19 July 2019, https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/.
 2. Advancement of Techniques for Image Cartoonization, Aditi Lohomi.
