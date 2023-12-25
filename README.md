@@ -50,6 +50,25 @@ Performance was evaluated based on 900 test images, with an average inference ti
 
 The user interface allows users to input images and select cartoonization styles. Figures demonstrate the image transformation for different styles, such as Shinkai, Hayao, Hosoda, and Paprika.
 
+# My Project
+
+![Image 1]([https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/Shinkai.png])
+
+Image transformation using Shinkai style.
+
+![Image 2]([https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/Hayao.png])
+
+Image transformation using Hayao style.
+
+![Image 3](https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/hosoda.png)
+
+Image transformation using Hosodo style.
+
+![Image 4](https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/paprika.png)
+
+Image transformation using Paprika style.
+
+
 ## 4. Conclusion
 
 The implemented Cartoon GAN successfully converts real-world images into high-quality cartoon-style graphics. Future work may involve extending the application to handle various video formats.
