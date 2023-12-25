@@ -52,11 +52,11 @@ The user interface allows users to input images and select cartoonization styles
 
 # My Project
 
-![Image 1]([https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/Shinkai.png])
+![Image 1](https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/Shinkai.png)
 
 Image transformation using Shinkai style.
 
-![Image 2]([https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/Hayao.png])
+![Image 2](https://github.com/saimeghana26/image-cartoonization/blob/34501ff78024def7081ba7558b7894630871c3fe/images/Hayao.png)
 
 Image transformation using Hayao style.
 
